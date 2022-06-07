@@ -6,14 +6,15 @@
   <a href="https://github.com/pOrgz-dev/.github/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/pOrgz-dev/.github?logo=git&style=plastic"></a>
 </h1>
 
-<p align = "justify">This is an Organization :office: where shared accounts :key: are available related to <a href = "https://github.com/pOrgz-dev"><b>pOrgz-dev</b></a>. Currently, this organization is managed and owned by <a href = "https://github.com/ZenithClown">dPramanik :person_in_tuxedo:</a>.</p>
+<p align = "center"><a href = "https://inspirigenceworks.com/">HOMEPAGE</a></p>
+
+<p align = "justify">This is an Organization :office: where shared accounts :key: are available related to <a href = "https://github.com/Inspirigence-Works-Private-Limited"><b>Inspirigence Works Pvt. Ltd.</b></a>.</p>
 
 ## About this Repository
 
 <p align = "justify">The <code>.github</code> is a special :star2: repository :page_with_curl: that acts as a <i>fallback</i> for all other repository under an user or an organization (<a href = "https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/">more information</a>:information_source:). This repository is thus developed with all the necessary files, thus no special files are required at each individual repository. The following <a href = "https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file">community health files</a> are added (:heavy_plus_sign:) here:</p>
 
 * :toolbox: [Issue Templates](.github/ISSUE_TEMPLATE) for reporting a `bug` :bug: and for requiesting a *new feature* :gear: is added.
-* :label: [MIT License](LICENSE) file is added. All the projects in this organization adheres to MIT License unless specified. Thus, you are free to use and distribute any/part of the project. Do refer my [profile:bangbang:](https://github.com/ZenithClown) or the [organization profile:exclamation:](https://github.com/pOrgz-dev) if you use the code :warning:!
 * :nut_and_bolt: [PULL Request Template](.github/PULL_REQUEST_TEMPLATE.md) is a simple representation to open a pull request in any of the projects associated in this organization.
 * :printer: [CODE of CONDUCT](.github/CODE_OF_CONDUCT.md) adheres to [Contributor Convent](https://www.contributor-covenant.org/) that lists the code of conduct for all the open source projects in this organization.
 
